@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rinjin75.github.io/etheria-server/sitemap.xml
