@@ -1,0 +1,48 @@
+{
+  "news": [],
+  "events": [],
+  "dungeons": [],
+  "ranks": [],
+  "gallery": [
+    {
+      "src": "gallery/server-1.webp",
+      "title": "Данжи ETHERIA",
+      "kind": "Снято на ETHERIA"
+    },
+    {
+      "src": "gallery/server-2.webp",
+      "title": "Постройки сервера",
+      "kind": "Снято на ETHERIA"
+    },
+    {
+      "src": "gallery/server-3.webp",
+      "title": "Красивые локации",
+      "kind": "Снято на ETHERIA"
+    },
+    {
+      "src": "gallery/atmosphere-1.webp",
+      "title": "Атмосфера Minecraft · 1",
+      "kind": "Художественный фон, не скриншот сервера"
+    },
+    {
+      "src": "gallery/atmosphere-2.webp",
+      "title": "Атмосфера Minecraft · 2",
+      "kind": "Художественный фон, не скриншот сервера"
+    },
+    {
+      "src": "gallery/atmosphere-3.webp",
+      "title": "Атмосфера Minecraft · 3",
+      "kind": "Художественный фон, не скриншот сервера"
+    },
+    {
+      "src": "gallery/atmosphere-4.webp",
+      "title": "Атмосфера Minecraft · 4",
+      "kind": "Художественный фон, не скриншот сервера"
+    },
+    {
+      "src": "gallery/atmosphere-5.webp",
+      "title": "Атмосфера Minecraft · 5",
+      "kind": "Художественный фон, не скриншот сервера"
+    }
+  ]
+}
